@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center">
+    <a href="https://github.com/xzolw/">
+        <img src="https://komarev.com/ghpvc/?username=xzolw&color=red"/>
+    </a>
+    <br>
+    <br>
+    <a href="https://discord.com/users/670589668500176916">
+        <img src="https://lanyard-profile-readme.vercel.app/api/670589668500176916?idleMessage=%22May%20the%20skiddin%20be%20with%20you%22&borderRadius=25px"/>
+    </a>
+    </p>
+</div>
 
-<!--
-**xzolw/xzolw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
+<div align="center">
+    <a href="https://github.com/xzolw/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=xzolw&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF&count_private=true)](https://git.io/streak-stats"/>
+    </a>
+    <a href="https://github.com/xzolw/">
+        <img src="https://github-readme-stats.vercel.app/api?username=xzolw&show_icons=true&theme=gruvbox&count_private=true"/>
+    </a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- https://github.com/ZeroDiscord/ZeroDiscord/ -->
